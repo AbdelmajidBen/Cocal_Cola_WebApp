@@ -52,7 +52,7 @@ coca-cola-website/
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Admin Panel**: React.js
-- **State Management**: Redux (optional)
+- **State Management**: Redux
 - **Authentication**: JWT (JSON Web Tokens)
 - **Styling**: CSS, Bootstrap
 
@@ -63,7 +63,7 @@ coca-cola-website/
 Make sure you have the following installed:
 
 - Node.js (https://nodejs.org/)
-- npm (comes with Node.js)
+- npm 
 - MongoDB (https://www.mongodb.com/)
 - Cloudinary account
 
