@@ -1,0 +1,174 @@
+*{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+:root {
+  --color-212529: #212529;
+  --color-ffd333: #ffd333;
+  --color-47ad24: #47ad24;
+  --color-e52e2e: #e52e2e;
+  --color-828599: #828599;
+  --color-3d464d: #ed464d;
+  --color-c3d4da: #ced4da;
+  --color-131921: #171212;
+  --color-ff0000:#FF0000;
+  --color-3b4149: #3b4149;
+  --color-febd69: #febd69;
+  --color-232f3e: #232f3e;
+  --color-bf4800: #bf4800;
+  --color-00f5d2:#00f5d2;
+  --color-f5f5f7: #f5f5f7;
+  --color-ededed: #ededed;
+  --color-777777: #777777;
+  --color-1c1c1b: #1c1c1b;
+}
+
+
+.logintext{
+  font-size: medium;
+  color: #828599;
+}
+
+.button {
+  background-color:#bc7443;
+  color: white;
+  font-size: 14px;
+  padding: 13px 33px;
+  border-radius: 25px;
+
+}
+
+.auth-card {
+  padding: 20px;
+  background-color: white;
+  width: 500px;
+  margin: 30px auto;
+  border-radius: 10px;
+}
+.auth-card h3 {
+  font-size: 19px;
+  font-weight: 500;
+  color: var(--color-777777);
+}
+.auth-card p {
+  font-size: 13px;
+  color: var(--color-777777);
+}
+
+.auth-card a {
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--color-1c1c1b);
+}
+
+.button2{
+  background-color: var(--color-febd69);
+ 
+  color: white;
+  font-size: 14px;
+  padding: 13px 33px;
+  border-radius: 25px;
+  margin-left: -12.5%;
+  margin-top: 0.6%;
+
+
+}
+.forgot{
+  color: var(--color-febd69);
+}
+.forgot1{
+  color: var(--color-febd69);
+}
+
+.button:hover {
+  background-color: var(--color-febd69);
+  color: #131921;
+}
+.button2:hover {
+  background-color: var(--color-febd69);
+  color: #131921;
+}
+.textel{
+  font-size: medium;
+  }
+.login {
+  background-color: var(--color-febd69);
+  color: var(--color-131921);
+  border: none;
+}
+.login:hover {
+  background-color: var(--color-131921);
+  color: white;
+}
+.forgot {
+  background-color: var(--color-febd69);
+  color: var(--color-131921);
+  border: none;
+  align-items: center  ;
+  
+}
+.forgot:hover {
+  background-color: var(--color-131921);
+  color: white;
+}
+
+.forgot1 {
+  background-color: var(--color-febd69);
+  color: var(--color-131921);
+  border: none;
+  
+}
+.forgot1:hover {
+  background-color: var(--color-131921);
+  color: white;
+}
+
+.mainhome{
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url("../src/images/cocabg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.thelogin{
+  background-color: #F1F1F1;
+  font-size:small;
+  border-radius: 5%;
+
+}
+.title1{
+  
+}
+.green {
+  color: var(--color-47ad24);
+  font-size: 14px;
+  font-family: Roboto !important;
+}
+.red {
+  color: var(--color-e52e2e);
+  font-size: 14px;
+  font-family: Roboto !important;
+}
+.quill {
+  background-color: white;
+}
+
+.form-control {
+  box-shadow: none;
+  border-color: var(--color-c3d4da);
+}
+.title {
+  font: 15px;
+
+  color:#828599;
+}
+
+.sub-title {
+  font: 24px;
+  font-family: Roboto !important;
+  color: var(--color-212529);
+}
+.desc {
+  font: 14px;
+  font-family: Roboto !important;
+  color: var(--color-828599);
+}
