@@ -1,5 +1,3 @@
-Got it. Here is the complete Markdown text in one block, ready to be copied into your README file on GitHub:
-
 ```markdown
 # Coca-Cola Website Project
 
