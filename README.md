@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is a comprehensive web application for Coca-Cola, built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The application includes an admin panel and two main front-end and back-end applications. The purpose of this project is to create an engaging and user-friendly website for Coca-Cola, with efficient management tools for administrators.
+This project is a comprehensive web application for Coca-Cola, built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) with integration fo cloudinary . The application includes an admin panel and two main front-end and back-end applications. The purpose of this project is to create an engaging and user-friendly website for Coca-Cola, with efficient management tools for administrators.
 
 ## Table of Contents
 
