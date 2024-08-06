@@ -1,4 +1,3 @@
-
 # Coca-Cola Website Project
 
 ## Overview
